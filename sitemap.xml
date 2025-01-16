@@ -2,12 +2,17 @@
 <urlset>
     <url>
         <loc>
-            http://localhost:8000/hello-world/
+            http://localhost:8000/pyrat-xo-reserve-planters-gold/
         </loc>
     </url>
     <url>
         <loc>
-            http://localhost:8000/5-2/
+            http://localhost:8000/english-harbour-aged-antigua-rum/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/antigua-distillery-ltd-rum-st-johns/
         </loc>
     </url>
     <url>
@@ -17,7 +22,7 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/sample-page/
+            http://localhost:8000/wordpress-database/
         </loc>
     </url>
     <url>
